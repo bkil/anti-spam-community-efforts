@@ -1,0 +1,39 @@
+{
+  "content": {
+    "body": "Hey there ! I noticed you all might be going through a phase and might need to loosen up a bit and by any chance would you be looking to buy any product ? (Xanax, Adderall, Molly, MDMA, Oxy, Coke, Meth & Weed/Wax etc; reasonable prices, discreet and fast delivery worldwide) you can add up on wickrme username; airpack ",
+    "format": "org.matrix.custom.html",
+    "formatted_body": "Hey there ! I noticed you all might be going through a phase and might need to loosen up a bit and by any chance would you be looking to buy any product ? (Xanax, Adderall, Molly, MDMA, Oxy, Coke, Meth &amp; Weed/Wax etc; reasonable prices, discreet and fast delivery worldwide) you can add up on wickrme username; airpack",
+    "msgtype": "m.text"
+  },
+  "event_id": "$165391311894196CVcvw:matrix.org",
+  "origin_server_ts": 1653913118724,
+  "room_id": "!qZFigcWoZoRODhzUlw:matrix.org",
+  "sender": "@madebank:matrix.org",
+  "type": "m.room.message",
+  "unsigned": {
+    "age": 248003056,
+    "m.relations": {
+      "m.annotation": {
+        "chunk": [
+          {
+            "type": "m.reaction",
+            "key": "☠️",
+            "count": 1
+          },
+          {
+            "type": "m.reaction",
+            "key": "💊",
+            "count": 1
+          },
+          {
+            "type": "m.reaction",
+            "key": "🙅",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "user_id": "@madebank:matrix.org",
+  "age": 248003056
+}
