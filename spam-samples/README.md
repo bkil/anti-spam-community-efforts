@@ -11,3 +11,9 @@ Some metadata not visible in the JSON:
 You can actually still find some of the samples unredacted in some unmoderated rooms mentioned in bans of May 2022, especially the E2EE ones:
 
 * https://app.element.io/#/room/#banlist-spam:systemtest.tk
+
+## 2022-06 Blockchain trading
+
+* e.g. @nelsonkelrobs:matrix.org
+* Seems to be a different person or bot, with devices: `FluffyChat android` and `Element Android`
+* No profile picture

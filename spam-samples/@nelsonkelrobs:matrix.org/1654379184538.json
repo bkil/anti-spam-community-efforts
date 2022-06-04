@@ -1,0 +1,27 @@
+{
+  "content": {
+    "body": "A new bonus multiplier platform has been discovered for all blockchain investments, where you can earn three to four times of your investment in Bitcoin.\n inbox me on the link below to get more information\nhttps://t.me/Nelsonkel",
+    "format": "org.matrix.custom.html",
+    "formatted_body": "A new bonus multiplier platform has been discovered for all blockchain investments, where you can earn three to four times of your investment in Bitcoin.<br />\ninbox me on the link below to get more information<br />\nhttps://t.me/Nelsonkel",
+    "msgtype": "m.text"
+  },
+  "origin_server_ts": 1654379184538,
+  "sender": "@nelsonkelrobs:matrix.org",
+  "type": "m.room.message",
+  "unsigned": {
+    "age": 1884677,
+    "m.relations": {
+      "m.annotation": {
+        "chunk": [
+          {
+            "type": "m.reaction",
+            "key": "🗑️",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "event_id": "$P093mNNIYyvcOcTf1hf15j8kOuHvYTueLol12RM_oOc",
+  "room_id": "!rgQbWTfsoUcbvEDAvs:matrix.org"
+}
